@@ -20,7 +20,7 @@ td.selecmenuitem
 background-color: white;
 TEXT-DECORATION: none;
 COLOR: blue;
-font-size: xx-small;
+/* font-size: xx-small; */
 font-weight: bold;
 }
 
