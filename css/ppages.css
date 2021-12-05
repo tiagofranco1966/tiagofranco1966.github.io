@@ -57,7 +57,7 @@ td.board
 {
 background-color: silver;
 
-font-size: xx-small;
+/* font-size: xx-small; */
 }
 
 td.boardtitle
