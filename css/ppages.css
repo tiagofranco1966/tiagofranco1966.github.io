@@ -65,7 +65,7 @@ td.boardtitle
 background-color: black;
 COLOR: white; 
 font-weight: bold;
-font-size: xx-small;
+/* font-size: xx-small; */
 }
 
 p.small
